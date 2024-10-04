@@ -6,7 +6,7 @@
   width: 100%;
   height: 100vh;
   padding: 20px;
-  box-shadow: 0px 0px 10px #000000;
+  box-shadow: 0px 0px 10px #ffffff;
   background-image: url('./assets/bg33.jpg');
   background-size: cover;
   background-position: center;
@@ -98,7 +98,7 @@ p {
   padding: 40px;
   margin: 100px auto;
   border-radius: 20px;
-  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.1);
 }
 
 /* Form toggle buttons (Register/Login) */
@@ -178,7 +178,7 @@ button:hover {
 
 /* Main footer styling */
 .main-footer {
-  background-color: #333;
+  background-color: #8e8484;
   color: white;
   text-align: center;
   padding: 20px;

@@ -57,12 +57,11 @@ function App() {
         {showRegistration ? <RegistrationForm /> : <LoginForm />}
       </div>
 
-      {/* 
+    
       <footer className="main-footer">
         <p>© 2024 Tracom Academy. All rights reserved.</p>
       </footer>
-      */}
-      <LoginForm/>
+  
     </>
   );
 }
